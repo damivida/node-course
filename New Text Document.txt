@@ -1,0 +1,10 @@
+file:///C:/Users/vidad/Downloads/PDF-Guide-Node-Andrew-Mead-v3%20(1).pdf
+
+nodemon src/app.js -e js,hbs   - start nodemon for web-server (global version)
+
+/Users/vidad/mongodb/bin/mongod.exe --dbpath=/Users/vidad/mongodb-data - start mongodb server
+npm run dev - start server (dev dependency)
+
+db pass - nodeCourse
+
+C:\Users\vidad\mongodb\bin\mongod.exe --dbpath=/Users/vidad/mongodb-data
